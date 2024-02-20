@@ -26,7 +26,7 @@
         {   domain = "docs.sjau.ch";
             answer = "10.10.10.7"; }
         {   domain = "ha.sjau.ch";
-            answer = "10.10.10.53"; }
+            answer = "10.10.10.44"; }
         {   domain = "servi.home.sjau.ch";
             answer = "10.10.10.3"; }
         {   domain = "subi.home.sjau.ch";
