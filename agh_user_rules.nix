@@ -3,5 +3,6 @@
 {
     services.adguardhome.settings.user_rules = [
         "@@|darwin.gold^"
+        "@@|minepi.com^"
     ];
 }
