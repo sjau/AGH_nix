@@ -1,6 +1,6 @@
 # List of dns rewrites to use in AdGuardHome
 {
-    services.adguardhome.settings.dns.rewrites = [
+    services.adguardhome.settings.filtering.rewrites = [
         {   domain = "data.jus-law.ch";
             answer = "10.10.10.7"; }
         {   domain = "docs.jus-law.ch";
