@@ -1,6 +1,6 @@
 # List of dns rewrites to use in AdGuardHome
 {
-    services.adguardhome.settings.dns.rewrites = [
+    services.adguardhome.settings.filtering.rewrites = [
         {   domain = "dns1.uniestro.com";
             answer = "10.20.30.53"; }
         {   domain = "dns1";
