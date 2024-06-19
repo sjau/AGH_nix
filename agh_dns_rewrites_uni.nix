@@ -31,5 +31,7 @@
             answer = "10.20.30.3"; }
         {   domain = "unifi";
             answer = "10.20.30.9"; }
+        {   domain = "mail.home.sjau.ch";
+            answer = "10.200.0.1"; }
     ];
 }
