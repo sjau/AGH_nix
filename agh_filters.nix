@@ -210,6 +210,26 @@
             url = "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser";
             name = "Firebog Coinblocker";
             id = 53; }
+        {   enabled = true;
+            url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.winoffice.txt";
+            name = "HaGeZi's Windows/Office Tracker DNS Blocklist";
+            id = 54; }
+        {   enabled = true;
+            url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.apple.txt";
+            name = "HaGeZi's Apple Tracker DNS Blocklist";
+            id = 55; }
+        {   enabled = true;
+            url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.tiktok.txt";
+            name = "HaGeZi's TikTok Fingerprinting DNS Blocklist";
+            id = 56; }
+        {   enabled = true;
+            url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.xiaomi.txt";
+            name = "HaGeZi's Xiaomi Tracker DNS Blocklist";
+            id = 57; }
+        {   enabled = true;
+            url = "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/native.amazon.txt";
+            name = "HaGeZi's Amazon Tracker DNS Blocklist";
+            id = 58; }
     ];
 }
 
