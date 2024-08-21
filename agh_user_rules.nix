@@ -4,5 +4,6 @@
     services.adguardhome.settings.user_rules = [
         "@@|darwin.gold^"
         "@@|minepi.com^"
+        "@@||vlscppe.microsoft.com^"  # Required for Windows ISO Downloads
     ];
 }
