@@ -2,8 +2,7 @@
 
 {
     services.adguardhome.settings.user_rules = [
-        "@@|darwin.gold^"
-        "@@|minepi.com^"
+        "@@||darwin.gold^"
         "@@||vlscppe.microsoft.com^"        # Required for Windows ISO Downloads
         "@@||cdn.cookielaw.org^"            # 20Min Mobile App
     ];
