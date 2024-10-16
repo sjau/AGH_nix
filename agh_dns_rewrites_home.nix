@@ -7,6 +7,8 @@
             answer = "10.10.10.7"; }
         {   domain = "docs.jus-law.ch";
             answer = "78.46.32.76"; }
+        {   domain = "ff.jus-law.ch";
+            answer = "10.10.10.7"; }
         {   domain = "g.jus-law.ch";
             answer = "10.10.10.7"; }
         {   domain = "mail.jus-law.ch";
