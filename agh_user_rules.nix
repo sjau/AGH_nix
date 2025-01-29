@@ -6,5 +6,6 @@
         "@@||vlscppe.microsoft.com^"        # Required for Windows ISO Downloads
         "@@||cdn.cookielaw.org^"            # 20Min Mobile App
         "@@||s.youtube.com^"                # Youtube History
+        "@@||click.discord.com^"            # Discord Verification
     ];
 }
