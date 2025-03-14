@@ -11,6 +11,8 @@
             answer = "10.10.10.7"; }
         {   domain = "g.jus-law.ch";
             answer = "10.10.10.7"; }
+        {   domain = "horde.jus-law.ch";
+            answer = "10.10.10.5"; }
         {   domain = "mail.jus-law.ch";
             answer = "10.10.10.5"; }
         {   domain = "shell.jus-law.ch";
