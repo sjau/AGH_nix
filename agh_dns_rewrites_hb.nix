@@ -39,5 +39,7 @@
             answer = "10.100.100.10"; }
         {   domain = "voip.heer-baumgartner.ch";
             answer = "10.100.100.10"; }
+        {   domain = "shell.heer-baumgartner.ch";
+            answer = "10.100.100.53"; }
     ];
 }
