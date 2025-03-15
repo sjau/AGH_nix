@@ -35,8 +35,6 @@
             answer = "10.10.10.7"; }
         {   domain = "ha.sjau.ch";
             answer = "10.10.10.42"; }
-        {   domain = "habeta.sjau.ch";
-            answer = "10.10.10.43"; }
         {   domain = "servi.home.sjau.ch";
             answer = "10.10.10.3"; }
         {   domain = "subi.home.sjau.ch";
@@ -53,7 +51,12 @@
             answer = "10.10.10.7"; }
         {   domain = "shell.sjau.ch";
             answer = "10.10.10.3"; }
-
+        {   domain = "shell1.sjau.ch";
+            answer = "10.10.10.53"; }
+        {   domain = "shell2.sjau.ch";
+            answer = "10.10.10.35"; }
+        {   domain = "shell3.sjau.ch";
+            answer = "10.10.10.42"; }
 
         {   domain = "vpn-data.heer-baumgartner.ch";
             answer = "10.100.200.7"; }
