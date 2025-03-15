@@ -27,12 +27,14 @@
             answer = "10.20.30.3"; }
         {   domain = "shell";
             answer = "10.20.30.3"; }
+        {   domain = "shell1.uniestro.com";
+            answer = "10.20.30.53"; }
         {   domain = "shell1";
             answer = "10.20.30.53"; }
+        {   domain = "shell2.uniestro.com";
+            answer = "10.20.30.35"; }
         {   domain = "shell2";
             answer = "10.20.30.35"; }
-        {   domain = "shell3";
-            answer = "10.20.30.42"; }
         {   domain = "vpn.uniestro.com";
             answer = "10.20.30.3"; }
         {   domain = "vpn";
