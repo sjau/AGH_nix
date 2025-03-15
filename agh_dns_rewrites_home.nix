@@ -29,6 +29,8 @@
             answer = "10.10.10.53"; }
         {   domain = "dns2.sjau.ch";
             answer = "10.10.10.35"; }
+        {   domain = "dns3.sjau.ch";
+            answer = "10.10.10.42"; }
         {   domain = "chem.sjau.ch";
             answer = "10.10.10.3"; }
         {   domain = "docs.sjau.ch";
