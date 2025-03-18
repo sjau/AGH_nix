@@ -37,6 +37,8 @@
             answer = "10.10.10.7"; }
         {   domain = "ha.sjau.ch";
             answer = "10.10.10.42"; }
+        {   domain = "plex.home.sjau.ch";
+            answer = "10.10.10.3"; }
         {   domain = "servi.home.sjau.ch";
             answer = "10.10.10.3"; }
         {   domain = "subi.home.sjau.ch";
