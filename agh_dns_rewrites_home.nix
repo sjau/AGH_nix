@@ -61,6 +61,12 @@
             answer = "10.10.10.35"; }
         {   domain = "shell3.sjau.ch";
             answer = "10.10.10.42"; }
+        
+        {   domain = "nc.sjau.ch";
+            answer = "10.10.10.214"; }
+        {   domain = "g.sjau.ch";
+            answer = "10.10.10.214"; }
+
 
         {   domain = "vpn-data.heer-baumgartner.ch";
             answer = "10.100.200.7"; }
