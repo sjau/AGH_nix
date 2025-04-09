@@ -43,5 +43,7 @@
             answer = "10.100.100.7"; }
         {   domain = "shell1.heer-baumgartner.ch";
             answer = "10.100.100.53"; }
+        {   domain = "vpn-data.heer-baumgartner.ch";
+            answer = "10.100.200.7"; }
     ];
 }
