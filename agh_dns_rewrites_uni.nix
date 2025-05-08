@@ -16,9 +16,9 @@
         {   domain = "g";
             answer = "10.20.30.3"; }
         {   domain = "mail.uniestro.net";
-            answer = "10.20.30.3"; }
+            answer = "10.20.30.5"; }
         {   domain = "mail";
-            answer = "10.20.30.3*;}
+            answer = "10.20.30.5*;}
         {   domain = "rd.uniestro.com";
             answer = "10.20.30.3"; }
         {   domain = "rd";
