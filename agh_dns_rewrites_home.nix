@@ -70,7 +70,8 @@
             answer = "10.10.10.100"; }
         {   domain = "r.sjau.ch";
             answer = "10.10.10.100"; }
-
+        {   domain = "wetty.sjau.ch";
+            answer = "10.10.10.100"; }
 
 
 
