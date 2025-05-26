@@ -68,6 +68,8 @@
             answer = "10.10.10.214"; }
         {   domain = "router.sjau.ch";
             answer = "10.10.10.100"; }
+        {   domain = "r.sjau.ch";
+            answer = "10.10.10.100"; }
 
 
 
