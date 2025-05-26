@@ -72,6 +72,12 @@
             answer = "10.10.10.100"; }
         {   domain = "wetty.sjau.ch";
             answer = "10.10.10.100"; }
+        {   domain = "o.sjau.ch";
+            answer = "10.10.10.50"; }
+        {   domain = "omnia.sjau.ch";
+            answer = "10.10.10.50"; }
+
+
 
 
 
