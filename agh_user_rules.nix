@@ -7,5 +7,8 @@
         "@@||cdn.cookielaw.org^"            # 20Min Mobile App
         "@@||s.youtube.com^"                # Youtube History
         "@@||click.discord.com^"            # Discord Verification
+        "@@*chat.com^"
+        "@@||strpst.com^"
+        "@@||doppiocdn.com^"
     ];
 }
