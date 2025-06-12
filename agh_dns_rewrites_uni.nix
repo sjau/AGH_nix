@@ -15,6 +15,10 @@
             answer = "10.20.30.3"; }
         {   domain = "g";
             answer = "10.20.30.3"; }
+        {   domain = "jetkvm.uniestro.com";
+            answer = "10.20.30.6"; }
+        {   domain = "jetkvm";
+            answer = "10.20.30.6"; }
         {   domain = "mail.uniestro.net";
             answer = "10.20.30.5"; }
         {   domain = "mail";
