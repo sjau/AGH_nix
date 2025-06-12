@@ -13,6 +13,10 @@
             answer = "10.10.10.7"; }
         {   domain = "horde.jus-law.ch";
             answer = "10.10.10.5"; }
+        {   domain = "jetkvm.jus-law.ch";
+            answer = "10.10.10.6"; }
+        {   domain = "jetkvm";
+            answer = "10.10.10.6"; }
         {   domain = "mail.jus-law.ch";
             answer = "10.10.10.5"; }
         {   domain = "shell.jus-law.ch";
@@ -37,6 +41,10 @@
             answer = "10.10.10.7"; }
         {   domain = "ha.sjau.ch";
             answer = "10.10.10.42"; }
+        {   domain = "jetkvm.sjau.ch";
+            answer = "10.10.10.4"; }
+        {   domain = "jetkvm-servi";
+            answer = "10.10.10.4"; }
         {   domain = "bazarr.home.sjau.ch";
             answer = "10.10.10.3"; }
         {   domain = "plex.home.sjau.ch";
