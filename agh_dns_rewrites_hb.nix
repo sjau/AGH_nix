@@ -21,6 +21,10 @@
             answer = "10.100.100.7"; }
         {   domain = "data";
             answer = "10.100.100.7"; }
+        {   domain = "jetkvm.heer-baumgartner.ch";
+            answer = "10.100.100.6"; }
+        {   domain = "jetkvm";
+            answer = "10.100.100.6"; }
         {   domain = "pw.heer-baumgartner.ch";
             answer = "10.100.100.7"; }
         {   domain = "pw";
