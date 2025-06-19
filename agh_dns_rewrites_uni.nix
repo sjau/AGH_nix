@@ -43,7 +43,7 @@
             answer = "10.20.30.3"; }
         {   domain = "vpn";
             answer = "10.20.30.3"; }
-        {   domain = "vpn-dataa.uniestro.com";
+        {   domain = "vpn-data.uniestro.com";
             answer = "10.20.31.3"; }
         {   domain = "vpn-data";
             answer = "10.20.31.3"; }
