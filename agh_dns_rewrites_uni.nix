@@ -43,6 +43,10 @@
             answer = "10.20.30.3"; }
         {   domain = "vpn";
             answer = "10.20.30.3"; }
+        {   domain = "vpn-dataa.uniestro.com";
+            answer = "10.20.31.3"; }
+        {   domain = "vpn-data";
+            answer = "10.20.31.3"; }
         {   domain = "unifi";
             answer = "10.20.30.9"; }
         {   domain = "mail.home.sjau.ch";
