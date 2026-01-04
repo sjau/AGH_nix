@@ -19,12 +19,6 @@
         {   domain = "mail";
             answer = "10.100.100.5";
             enabled = true; }
-        {   domain = "www.heer-baumgartner.ch";
-            answer = "10.100.100.5";
-            enabled = true; }
-        {   domain = "www";
-            answer = "10.100.100.5";
-            enabled = true; }
         {   domain = "data.heer-baumgartner.ch";
             answer = "10.100.100.7";
             enabled = true; }
