@@ -37,7 +37,7 @@
         {   domain = "vpn.jus-law.ch";
             answer = "10.10.10.7";
             enabled = true; }
-        {   domain = "whisper.jus-law.ch";
+        {   domain = "w.jus-law.ch";
             answer = "10.10.10.7";
             enabled = true; }
         {   domain = "www.jus-law.ch";
