@@ -10,5 +10,7 @@
         "@@*chat.com^"
         "@@||strpst.com^"
         "@@||doppiocdn.com^"
+        "@@||owocdn.top^"
+        "@@||vault-99.owocdn.top^"
     ];
 }
