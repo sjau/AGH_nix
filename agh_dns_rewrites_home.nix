@@ -28,6 +28,9 @@
         {   domain = "mail.jus-law.ch";
             answer = "10.10.10.5";
             enabled = true; }
+        {   domain = "p.jus-law.ch";
+            answer = "10.10.10.7";
+            enabled = true; }
         {   domain = "shell.jus-law.ch";
             answer = "10.10.10.7";
             enabled = true; }
