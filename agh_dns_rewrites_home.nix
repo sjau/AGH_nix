@@ -29,7 +29,7 @@
             answer = "10.10.10.5";
             enabled = true; }
         {   domain = "ms.jus-law.ch"; # Obsidian MS
-            answer = "10.10.10.7";
+            answer = "10.10.10.3";
             enabled = true; }
         {   domain = "o.jus-law.ch"; # Obsidian SJ
             answer = "10.10.10.7";
