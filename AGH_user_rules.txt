@@ -9,4 +9,4 @@
     "@@||doppiocdn.com^"
     "@@||owocdn.top^"
     "@@||vault-99.owocdn.top^"
-];
+]
