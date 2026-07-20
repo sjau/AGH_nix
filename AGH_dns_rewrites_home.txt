@@ -1,3 +1,4 @@
+[
 {   domain = "ai.jus-law.ch";
     answer = "10.10.10.7";
     enabled = true; }
@@ -158,3 +159,4 @@
 {   domain = "cms.scfoodtrendz.com";
     answer = "10.10.10.166";
     enabled = true; }
+]
