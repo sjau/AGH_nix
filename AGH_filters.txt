@@ -1,8 +1,3 @@
-# List of Ad-/Malware filter lists to use in AdGuardHome
-# Use like
-#   services.adguardhome.settings.filters = [
-#     (builtins.readFile (builtins.fetchurl "https://raw.githubusercontent.com/sjau/AGH_nix/main/AGH_filters.txt"))
-#   ];
 {   enabled = true;
     url = "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt";
     name = "AdGuard DNS filter";
