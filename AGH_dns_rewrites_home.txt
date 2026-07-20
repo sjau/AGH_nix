@@ -1,8 +1,3 @@
-# List of dns rewrites to use in AdGuardHome
-# Use like
-#   services.adguardhome.settings.rewrites = [
-#     (builtins.readFile (builtins.fetchurl "https://raw.githubusercontent.com/sjau/AGH_nix/main/AGH_dns_rewrites_home.txt"))
-#   ];
 {   domain = "ai.jus-law.ch";
     answer = "10.10.10.7";
     enabled = true; }
