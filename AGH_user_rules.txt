@@ -1,0 +1,15 @@
+# List of user rules to use in AdGuardHome
+# Use like
+#   user_rules = [
+#     (builtins.readFile (builtins.fetchurl "https://raw.githubusercontent.com/sjau/AGH_nix/main/AGH_user_rules.txt"))
+#   ]:
+"@@||darwin.gold^"
+"@@||vlscppe.microsoft.com^"        # Required for Windows ISO Downloads
+"@@||cdn.cookielaw.org^"            # 20Min Mobile App
+"@@||s.youtube.com^"                # Youtube History
+"@@||click.discord.com^"            # Discord Verification
+"@@*chat.com^"
+"@@||strpst.com^"
+"@@||doppiocdn.com^"
+"@@||owocdn.top^"
+"@@||vault-99.owocdn.top^"
