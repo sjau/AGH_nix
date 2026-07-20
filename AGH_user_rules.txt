@@ -1,3 +1,4 @@
+[
 "@@||darwin.gold^"
 "@@||vlscppe.microsoft.com^"        # Required for Windows ISO Downloads
 "@@||cdn.cookielaw.org^"            # 20Min Mobile App
@@ -8,3 +9,4 @@
 "@@||doppiocdn.com^"
 "@@||owocdn.top^"
 "@@||vault-99.owocdn.top^"
+]
