@@ -1,6 +1,6 @@
 # List of user rules to use in AdGuardHome
 # Use like
-#   user_rules = [
+#   services.adguardhome.settings.user_rules = [
 #     (builtins.readFile (builtins.fetchurl "https://raw.githubusercontent.com/sjau/AGH_nix/main/AGH_user_rules.txt"))
 #   ]:
 "@@||darwin.gold^"
