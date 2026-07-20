@@ -1,6 +1,6 @@
 # List of Ad-/Malware filter lists to use in AdGuardHome
 # Use like
-#   filters = [
+#   services.adguardhome.settings.filters = [
 #     (builtins.readFile (builtins.fetchurl "https://raw.githubusercontent.com/sjau/AGH_nix/main/AGH_filters.txt"))
 #   ]:
 {   enabled = true;
