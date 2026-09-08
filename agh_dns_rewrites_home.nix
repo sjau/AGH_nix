@@ -69,6 +69,9 @@
         {   domain = "docs.sjau.ch";
             answer = "10.10.10.7";
             enabled = true; }
+        {   domain = "f.sjau.ch";
+            answer = "10.10.10.100";
+            enabled = true; }
         {   domain = "ha.sjau.ch";
             answer = "10.10.10.42";
             enabled = true; }
@@ -117,7 +120,6 @@
         {   domain = "shell3.sjau.ch";
             answer = "10.10.10.42";
             enabled = true; }
-        
         {   domain = "nc.sjau.ch";
             answer = "10.10.10.214";
             enabled = true; }
