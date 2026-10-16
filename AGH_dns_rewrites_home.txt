@@ -118,6 +118,10 @@
     {   domain = "shell3.sjau.ch";
         answer = "10.10.10.42";
         enabled = true; }
+    {   domain = "t.sjau.ch";
+        answer = "10.10.10.3";
+        enabled = true; }
+
 
     {   domain = "nc.sjau.ch";
         answer = "10.10.10.214";
